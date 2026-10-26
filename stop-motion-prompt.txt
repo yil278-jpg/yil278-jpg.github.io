@@ -1,0 +1,13 @@
+YUDI LI / YES–NO CAT COIN / STOP-MOTION VIDEO PROMPT
+
+Create a 6–8 second handcrafted stop-motion product film, 16:9, 24 fps output with a deliberately stepped 10–12 fps movement cadence. Use the supplied photographs of my cream cat-shaped Yes/No coin as the reference. Preserve the exact cat silhouette and the existing Yes / No lettering; do not invent new marks or redesign the object.
+
+Scene: a matte charcoal-black tabletop and an almost-black seamless background. Warm directional studio light from the upper left makes the cream surface and fine printed texture legible. Restrained composition, generous empty space, strong contrast. No extra captions, logos or invented interface elements.
+
+Action: the coin begins upright in a three-quarter view. A small cat silhouette enters from the lower left, pauses and lightly taps the edge. The coin turns in small physical increments, briefly showing the Yes side, then the No side. It settles on Yes. The cat looks at the coin, blinks, and walks out to the right. Include tiny believable changes in shadow between frames and a handmade, tactile rhythm. No human hand. No melting shapes or moving lettering. Fixed camera; no dramatic camera motion.
+
+End: hold the coin clearly for one second, then create a gentle loop-compatible transition. Deliver MP4 H.264, 1920×1080, no audio required. Also provide a clean still poster frame.
+
+Needed references: an approved clear front and back photograph of the actual coin, plus the chosen cat character / transparent-background walking assets. If only an AI-assisted product mock-up is used as reference, identify the resulting film as an AI-assisted visualisation rather than a recording of a physical prototype.
+
+Website integration: replace the browser-animation study with the final MP4 and poster frame; provide controls and a still-image fallback for visitors who request reduced motion. Do not autoplay audio.
